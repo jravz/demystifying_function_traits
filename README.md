@@ -5,4 +5,4 @@ If we tried to learn direct from Actix-Web as an example, it can be daunting. So
 
 ## Medium article with detailed explanations
 
-[<<Article Link>>](https://medium.com/@jayanth.ravindran/learning-by-doing-rust-traits-demystifying-actix-web-function-handlers-63436070c9d8)
+[Article-Link](https://medium.com/@jayanth.ravindran/learning-by-doing-rust-traits-demystifying-actix-web-function-handlers-63436070c9d8)
