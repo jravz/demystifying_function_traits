@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "tmp"
+name = "demystifying_function_traits"
 version = "0.1.0"
